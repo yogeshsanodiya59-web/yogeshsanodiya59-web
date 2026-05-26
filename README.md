@@ -127,5 +127,6 @@ I enjoy working close to the system — from backend services to **Raspberry Pi*
 ## 🔗 Connect With Me
 
 - GitHub: [https://github.com/your-github  ](https://github.com/yogeshsanodiya59-web)
-- LinkedIn: [https://www.linkedin.com/in/your-linkedin ](https://www.linkedin.com/in/yogesh-sanodiya-8a2816298/) 
+- LinkedIn: [https://www.linkedin.com/in/your-linkedin ](https://www.linkedin.com/in/yogesh-sanodiya-8a2816298/) '
+- lc-->
 - Email: yogeshsanodiya59@gmail.com
