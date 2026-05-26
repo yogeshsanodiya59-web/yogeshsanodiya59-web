@@ -110,7 +110,7 @@ I enjoy working close to the system — from backend services to **Raspberry Pi*
 ## 🏆 Achievements
 
 
-- 🥇  CGPA (7.78)
+- 🥇  CGPA (7.45)
 - 🚀 Smart India Hackathon – Team Lead (Internal Round Qualified)
 
 ---
