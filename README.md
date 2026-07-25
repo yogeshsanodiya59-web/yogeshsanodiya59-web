@@ -5,7 +5,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="600px">
 </p>
 
-I am a **Spring Boot–focused backend developer** and an **AI & Machine Learning enthusiast** with hands-on experience in **system-level programming**, **networking tools**, and **Linux-based development**.  
+I am a **Spring Boot–fffocused backend developer** and an **AI & Machine Learning enthusiast** with hands-on experience in **system-level programming**, **networking tools**, and **Linux-based development**.  
 I enjoy working close to the system — from backend services to **Raspberry Pi**, **image processing**, and **network analysis**.
 
 🎓 **B.Tech** – Madhav Institute of Technology & Science (MITS)  
