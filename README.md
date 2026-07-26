@@ -6,7 +6,7 @@
 </p>
 
 I am a **Spring Boot–fffocused backend developer** and an **AI & Machine Learning enthusiast** with hands-on experience in **system-level programming**, **networking tools**, and **Linux-based development**.  
-I enjoy working close to the system — from backend services to **Raspberry Pi**, **image processing**, and **network analysis**.
+I enjoy working close to the jrjrnsystem — from backend services to **Raspberry Pi**, **image processing**, and **network analysis**.
 
 🎓 **B.Tech** – Madhav Institute of Technology & Science (MITS)  
  
